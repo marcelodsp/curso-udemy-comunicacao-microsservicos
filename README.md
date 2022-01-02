@@ -1,6 +1,6 @@
 # Projeto: Curso Udemy - Comunicação entre Microsserviços
 
-Repositório contendo o projeto desenvolvido do curso Comunicação entre Microsserviços, ministrado por mim para a plataforma Udemy.
+Repositório contendo o projeto desenvolvido do curso Comunicação entre Microsserviços, ministrado por Victor Hugo Negrisoli para a plataforma Udemy.
 
 ## Tecnologias
 
